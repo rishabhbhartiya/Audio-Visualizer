@@ -1,0 +1,1 @@
+This is an audio visualizer tool that give you the representation of audio waveform, Mfcc representation, chromagram, decibles scaled spectrogram, mel spectrogram, harmonics and perceptual, spectral centroid, chromagram stft, spectral rolloff.
