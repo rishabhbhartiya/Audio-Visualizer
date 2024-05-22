@@ -3,14 +3,8 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-from matplotlib.offsetbox import AnnotationBbox, OffsetImage
-# Librosa Libraries
 import librosa
 import librosa.display
-import IPython.display as ipd
-import sklearn
-from sklearn.preprocessing import minmax_scale
 st.header("VISUALIZE YOUR AUDIO SAMPLE")
 # Display an uploader widget for audio files
 uploaded_file = st.file_uploader("Upload your audio file", type=['mp3', 'wav', 'ogg'])
